@@ -1,11 +1,17 @@
-### Hi there 👋, my name is Zeeshan
-#### I am a Student
 ![I am a Student](https://pbs.twimg.com/profile_banners/834285600031256577/1578228532/600x200)
 
+# Zeeshan Ashraf
+### I am a Student
 I'm Zeeshan from India, and I do web development and designing. I really enjoy learning languages and framework like React and React Native, as well as pyhton based framework. I also love wireframing, ui,ux and design in general.
 
-Skills: REACT / JS / HTML / CSS / REACT NATIVE
+### Skills:
+* REACT 
+* JS 
+* HTML
+* CSS 
+* REACT NATIVE
 
+### About
 - 🔭 I’m currently working on React and React Native  Projects 
 - 🌱 I’m currently learning React Native 
 - 😄 Pronouns: He/Him 
