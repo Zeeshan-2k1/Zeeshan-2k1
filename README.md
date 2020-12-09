@@ -4,12 +4,13 @@
 ### I am a Student
 I'm Zeeshan from India, and I do web development and designing. I really enjoy learning languages and framework like React and React Native, as well as pyhton based framework. I also love wireframing, ui,ux and design in general.
 
-### Skills:
-* REACT 
-* JS 
-* HTML
-* CSS 
-* REACT NATIVE
+### Favourite Stack
+<img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br/>
 
 ### About
 - 🔭 I’m currently working on React and React Native  Projects 
