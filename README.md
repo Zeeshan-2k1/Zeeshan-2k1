@@ -1,8 +1,10 @@
 ![I am a Student](https://pbs.twimg.com/profile_banners/834285600031256577/1578228532/600x200)
 
-# Zeeshan Ashraf
+# Zeeshan Ashraf ![Profile views](https://gpvc.arturio.dev/Zeeshan-2k1)  
 ### I am a Student
 I'm Zeeshan from India, and I do web development and designing. I really enjoy learning languages and framework like React and React Native, as well as pyhton based framework. I also love wireframing, ui,ux and design in general.
+<br />
+[<img src='https://img.shields.io/website/http/www.website.com/path/to/page.html.svg' alt='website'>](https://zeeshan-ashraf.netlify.app/) 
 
 ### Favourite Stack
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -17,13 +19,17 @@ I'm Zeeshan from India, and I do web development and designing. I really enjoy l
 - 🌱 I’m currently learning React Native 
 - 😄 Pronouns: He/Him 
 
+### Connect
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zeeshan-2k1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zeeshan-ashraf-38897b1a6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100005133649365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Zeeshan2k1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zeeshan-ashraf.netlify.app/)  
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zeeshan-ashraf-38897b1a6/) 
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/https://twitter.com/Zeeshan2k1) 
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ashraf2k1zeeshan@gmail.com)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100005133649365)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-2k1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-2k1&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Zeeshan-2k1)  
 
-![Profile views](https://gpvc.arturio.dev/Zeeshan-2k1)  
+
