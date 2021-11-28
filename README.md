@@ -1,22 +1,35 @@
 ![I am a Student](https://pbs.twimg.com/profile_banners/834285600031256577/1578228532/600x200)
 
-# Zeeshan Ashraf ![Profile views](https://gpvc.arturio.dev/Zeeshan-2k1)  
-### I am a Student
-I'm Zeeshan from India, and I do web development and designing. I really enjoy learning languages and framework like React and React Native, as well as pyhton based framework. I also love wireframing, ui,ux and design in general.
+# I'm Zeeshan Ashraf ![Profile views](https://gpvc.arturio.dev/Zeeshan-2k1)  
+
+I am a Full stack Web Developer, Linux & Open Source Enthusiast from India
+<br />
 <br />
 [<img src='https://img.shields.io/website/http/www.website.com/path/to/page.html.svg' alt='website'>](https://zeeshan-ashraf.netlify.app/) 
 
 ### Favourite Stack
-<img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height=35>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height=35>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height=35>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height=35>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height=35>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height=35>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height=35>
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height=35>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=35>
+</p>
 <br/>
 
 ### About
-- 🔭 I’m currently working on React and React Native  Projects 
-- 🌱 I’m currently learning React Native 
+- 🔭 I’m currently learning 3D art and graphics using blender 
 - 😄 Pronouns: He/Him 
 
 ### Connect
@@ -27,8 +40,11 @@ I'm Zeeshan from India, and I do web development and designing. I really enjoy l
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100005133649365)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan-2k1&theme=dark)]()
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-2k1&show_icons=true)  
+![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-2k1&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-2k1&layout=compact&langs_count=7&theme=radical&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/Zeeshan-2k1)  
 
