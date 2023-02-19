@@ -2,7 +2,7 @@
 
 # I'm Zeeshan Ashraf ![Profile views](https://gpvc.arturio.dev/Zeeshan-2k1)  
 
-I am a Full stack Web Developer, Linux & Open Source Enthusiast from India
+I am a full-stack developer and a freelancer from India.
 <br />
 <br />
 [<img src='https://img.shields.io/website/http/www.website.com/path/to/page.html.svg' alt='website'>](https://zeeshan-ashraf.netlify.app/) 
@@ -29,7 +29,7 @@ I am a Full stack Web Developer, Linux & Open Source Enthusiast from India
 <br/>
 
 ### About
-- 🔭 I’m currently learning 3D art and graphics using blender 
+- 🔭 Learning, Building and Growing 
 - 😄 Pronouns: He/Him 
 
 ### Connect
